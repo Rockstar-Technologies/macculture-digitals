@@ -1,0 +1,280 @@
+{
+  "whoWeAre": {
+    "intro": [
+      "Maculture Digitals (juridiquement Maculture Digitals SARL) est une entreprise camerounaise indépendante de médias numériques, d'arts, de culture et de divertissement, dûment constituée le 26 mars 2025. Elle a été fondée en 2008 sous le nom de Maculture Home Entertainment par le promoteur des arts et de la culture et artiste musical camerounais Mac Kelly Shepngong. L'entreprise est basée au Cameroun, dispose de documents fiscaux à jour et d'un compte bancaire auprès d'UBA, et son siège est à Yaoundé.",
+      "Maculture Digitals SARL est autorisée à mener tous types de projets artistiques et culturels au Cameroun et à l'étranger. Elle produit et promeut des œuvres artistiques, avec un accent particulier sur les arts musicaux, en raison de la compétence première de son fondateur. Elle est ainsi un label musical indépendant émergent pour les artistes, dont elle distribue la musique. Elle compte parmi ses artistes Mac Kelly et Edi-Win Chenny, et reste ouverte à d'autres artistes indépendants émergents et collaborateurs, quels que soient leur pays ou leur origine. Nous ne faisons aucune discrimination. Nous aimons découvrir de nouveaux sons et les fusionner avec les nôtres. Nous produisons principalement de l'Afrobeats, de l'Afro Folk Hop, du Hip-Hop/Rap et de la musique Pop.",
+      "Maculture Digitals est active sur des plateformes professionnelles comme LinkedIn et sur des plateformes de streaming comme Spotify, Apple Music, Deezer, Tidal, Boomplay et Amazon Music, avec sa discographie complète. Elle est ouverte à toutes les opportunités, partenariats et collaborations susceptibles de l'aider à démarrer, à se développer et à atteindre les résultats attendus."
+    ],
+    "slogansTitle": "Nos slogans",
+    "slogans": [
+      "Donner du pouvoir aux créatifs indépendants",
+      "Des créatifs indépendants au monde entier"
+    ],
+    "activitiesTitle": "Activités déclarées",
+    "activitiesIntro": "Les activités officiellement déclarées de l'entreprise, telles qu'inscrites dans ses documents d'immatriculation :",
+    "activities": [
+      "Production et promotion d'œuvres artistiques",
+      "Édition et protection d'œuvres artistiques",
+      "Suivi des droits d'auteur et des droits voisins",
+      "Organisation d'événements",
+      "Recherche et publication sur des thèmes artistiques et culturels",
+      "Partenariats pour le développement des arts et de la culture",
+      "Vente, fourniture et maintenance d'équipements électriques et électroniques",
+      "Mise en œuvre de projets artistiques et culturels",
+      "Contrôle de la qualité des œuvres artistiques"
+    ]
+  },
+  "history": {
+    "paragraphs": [
+      "Maculture Digitals a été fondée en 2008 sous le nom de Maculture Home Entertainment. Un blog a été créé sous ce nom pour partager l'actualité des arts et de la culture et les activités de ses artistes. Cette initiative a été saluée dans la lettre d'information de l'OCPA (Observatoire des politiques culturelles en Afrique). Deux albums, Maculture et FolkTale, ont été sortis sous ce nom sans aucun statut légal ou commercial.",
+      "En 2022, lors de la sortie d'Afro Folk Hop et des albums instrumentaux, le nom est devenu Maculture Digitals, toujours sans cadre légal. En mars 2025, son fondateur a décidé de franchir le pas et de légaliser cette nouvelle structure.",
+      "Maculture Digitals a créé son studio d'enregistrement à Yaoundé et l'a baptisé The Creative Hub. Ce nom rappelle aux créatifs qui le visitent qu'ils ne viennent pas jouer, mais donner le meilleur de leur créativité."
+    ],
+    "timelineTitle": "Moments clés",
+    "timeline": [
+      {
+        "year": "2008",
+        "text": "Fondation sous le nom de Maculture Home Entertainment, avec un blog sur l'actualité des arts et de la culture."
+      },
+      {
+        "year": "2022",
+        "text": "Changement de nom en Maculture Digitals avec la sortie d'Afro Folk Hop et des albums instrumentaux."
+      },
+      {
+        "year": "Mars 2025",
+        "text": "Constitution en Maculture Digitals SARL."
+      },
+      {
+        "year": "2026",
+        "text": "Adhésion à la SACEM en tant qu'éditeur."
+      }
+    ]
+  },
+  "connections": {
+    "intro": "Maculture Digitals a développé d'excellentes relations de travail au Cameroun et à l'étranger, et continue d'en construire pour renforcer ses capacités.",
+    "items": [
+      {
+        "id": "sacem",
+        "name": "SACEM",
+        "summary": "La société française de gestion collective des droits d'auteur, fondée en 1851. Mac Kelly est devenu auteur-compositeur membre en 2022 et Maculture Digitals a rejoint la SACEM comme éditeur en 2026 : les créations déclarées sont ainsi automatiquement référencées auprès de l'ASCAP et de la PRS."
+      },
+      {
+        "id": "cdbaby",
+        "name": "CD Baby",
+        "summary": "Le service de distribution musicale indépendante qui livre les titres à plus de 150 plateformes de streaming et de téléchargement. Toutes les sorties de Maculture Digitals sur les plateformes de streaming passent par CD Baby."
+      },
+      {
+        "id": "elasticstage",
+        "name": "ElasticStage",
+        "summary": "Une plateforme de fabrication et de distribution de vinyles et de CD à la demande, sans frais initiaux ni minimum de commande. Maculture Digitals a sorti son premier vinyle via ElasticStage."
+      },
+      {
+        "id": "mli",
+        "name": "Music Legacy International",
+        "summary": "Une communauté mondiale de musique, d'arts et de divertissement, dirigée par Tony Giannelli, qui soutient les musiciens indépendants conservant l'entière propriété de leurs droits. Mac Kelly en est membre."
+      },
+      {
+        "id": "tunedly",
+        "name": "Tunedly",
+        "summary": "Un studio de production musicale en ligne et une plateforme qui met en relation des artistes indépendants et des musiciens de session professionnels. Mac Kelly en est membre, avec une avancée en licence de synchronisation pour « Victim of Love »."
+      },
+      {
+        "id": "musoai",
+        "name": "Muso.AI",
+        "summary": "Une base de données des crédits musicaux fondée en 2017 à Los Angeles, née de l'idée que la musique mérite son propre IMDb. La discographie de Maculture Digitals y est présentée et analysée."
+      },
+      {
+        "id": "disco",
+        "name": "DISCO",
+        "summary": "Une plateforme cloud de gestion, de recherche et de livraison de fichiers pour les industries de la musique et des médias, utilisée pour organiser et proposer des catalogues audio."
+      },
+      {
+        "id": "creationafrica",
+        "name": "Creation Africa",
+        "summary": "Une plateforme qui soutient et met en relation les professionnels des industries culturelles et créatives en Afrique et en France. Mac Kelly et Maculture Digitals ont été examinés et disposent de profils approuvés et actifs."
+      },
+      {
+        "id": "isrc",
+        "name": "ISRC",
+        "summary": "Le Code international normalisé des enregistrements, un code unique de 12 caractères qui identifie un enregistrement sonore ou un clip musical. Maculture Digitals s'est vu attribuer un préfixe ISRC pour l'un de ses créatifs."
+      },
+      {
+        "id": "bokaworld",
+        "name": "Bokaworld Music",
+        "summary": "Un studio de production musicale et vidéo HD et un label indépendant dirigé par Yuniwo Tawe. Maculture Digitals s'est associée à Bokaworld Music pour construire le son unique de l'Afro Folk Hop."
+      },
+      {
+        "id": "cranefusion",
+        "name": "Crane Fusion Graphics",
+        "summary": "Une entreprise de design graphique de Bamenda, au Cameroun, qui crée des logos et des supports d'identité visuelle. Maculture Digitals s'est associée à Crane Fusion Graphics pour finaliser son logo officiel."
+      }
+    ]
+  },
+  "team": {
+    "intro": "Maculture Digitals est dirigée par son fondateur. Il travaille avec de nombreux créatifs talentueux dans la gestion de la structure, mais n'a pas encore de relations contractuelles avec eux. Ils seront ajoutés progressivement à l'équipe à mesure que les relations de travail seront précisées et formalisées, au minimum par un protocole d'accord (MOU).",
+    "founder": {
+      "name": "Ndzishepngong Kelvin Ngwang",
+      "alias": "Connu artistiquement sous le nom de Mac Kelly à l'international, et de Mac Kelly Shepngong au niveau local",
+      "role": "Fondateur et porteur de vision",
+      "bio": [
+        "Il est producteur musical créatif et entrepreneur camerounais indépendant, connu pour des albums comme Maculture (sorti en 2008 et mis à jour en 2010), FolkTale (2013) et Afro Folk Hop (2022), ainsi que pour ses albums instrumentaux en deux volumes Chances of Success, Beyond My Imaginations (BMI) et Signs of Success. Il est originaire de la région du Nord-Ouest, département de la Donga-Mantung.",
+        "Il a réalisé sa première musique produite professionnellement en 2006 avec son groupe Fakulty Crew. Le groupe n'a existé qu'un an, et il s'est lancé en solo l'année suivante, en écrivant, composant et produisant les chansons de son premier album. Il distribue sa musique en ligne via CD Baby depuis 2016 et est membre de la SACEM depuis le 14 octobre 2022.",
+        "Sa musique mêle des rythmes traditionnels camerounais au Hip Hop américain, au RnB, au Jazz et à d'autres musiques contemporaines. On la qualifie généralement d'Afrobeats, mais avec son originalité camerounaise il se reconnaît davantage dans le #CameroonianAfrobeats. Il a aussi quelques chansons purement hip hop et continue d'explorer d'autres genres. Sa musique porte sur la culture, le patriotisme et la conscience sociale, et se trouve sur toutes les grandes plateformes de streaming.",
+        "Il a bâti la confiance au niveau national et international grâce au service public et au travail de développement depuis 2008, date à laquelle il a débuté sa vie professionnelle comme volontaire au sein de Youth Outreach Program (YOP) à Bamenda, dans la région du Nord-Ouest du Cameroun. Il peut gérer des projets de toute envergure et de toute durée grâce à son expérience, son réseau et sa stabilité professionnelle.",
+        "Il est titulaire d'un Master of Science (MSc.) et de nombreux certificats de formation professionnelle, et termine actuellement un Executive Master of Business Administration (Executive MBA) à la Quantic School of Business and Technology, aux États-Unis, pour l'aider à gérer ses initiatives entrepreneuriales."
+      ],
+      "lookingTitle": "À la recherche de partenaires",
+      "looking": "Il recherche actuellement des partenaires, au niveau national et international, sous forme de bailleurs de fonds, de partenaires de mise en œuvre et de relais vers des opportunités. Les principaux bénéficiaires de ses projets sont les créatifs indépendants émergents.",
+      "skillsTitle": "Compétences et atouts",
+      "skills": [
+        "Gestion de projet",
+        "Leadership",
+        "Réseautage",
+        "Recherche",
+        "Développement organisationnel",
+        "Informatique et design graphique",
+        "Développement web",
+        "Développement de partenariats",
+        "Bonne gouvernance",
+        "Planification stratégique",
+        "Renforcement des capacités",
+        "Levée de fonds",
+        "Reporting",
+        "Communication",
+        "Administration",
+        "Développement communautaire"
+      ]
+    }
+  },
+  "talent": {
+    "intro": "De nombreux créatifs travaillent avec Maculture Digitals. Les principaux créatifs qui entretiennent une relation de travail avec elle sont Mac Kelly et Edi-Win Chenny. D'autres créatifs seront ajoutés au vivier de talents dès que les relations de travail seront formalisées, au minimum par un protocole d'accord (MOU).",
+    "factsTitle": "Faits marquants",
+    "discographyTitle": "Discographie",
+    "profiles": [
+      {
+        "id": "macKelly",
+        "name": "Mac Kelly",
+        "tagline": "Afro Folk Hop",
+        "bio": [
+          "Mac Kelly est un artiste musical et producteur camerounais connu pour son style unique d'Afro Folk Hop. Selon lui, l'Afro Folk Hop est un genre musical qui mêle des éléments du folk africain, du hip-hop et d'autres styles contemporains. Il a inventé et popularisé ce terme, concrétisé par la sortie d'un album et de sa suite instrumentale sous ce nom en 2022.",
+          "Depuis 2006, il crée une musique centrée sur la culture, le patriotisme et les questions sociales. En mars 2025, il a constitué Maculture Digitals en société à responsabilité limitée, devenant fondateur et propriétaire à 100 % de Maculture Digitals SARL, et détenant 100 % de tous les droits de création (composition, écriture, interprétation, production et édition) de tous les titres produits sous son nom d'artiste Mac Kelly.",
+          "Il attend avec intérêt des collaborations pour monétiser pleinement son catalogue, notamment par la synchronisation et les licences (publicité, télévision et radio)."
+        ],
+        "highlightsTitle": "Le son de l'Afro Folk Hop",
+        "highlights": [
+          {
+            "title": "Fusion de l'ancien et du nouveau",
+            "text": "Il associe des sons africains traditionnels, comme le conte, les voix et des instruments tels que les tambours et les cordes, à une production et des beats hip-hop modernes."
+          },
+          {
+            "title": "Expression culturelle",
+            "text": "C'est un vecteur de transmission culturelle, qui raconte aux nouvelles générations des histoires enracinées dans la culture tout en faisant vivre les sons du patrimoine."
+          },
+          {
+            "title": "Thèmes porteurs d'espoir",
+            "text": "Si la musique folk africaine évoque souvent les peines du quotidien, elle exprime aussi l'unité et le bonheur, des éléments que l'on retrouve dans l'Afro Folk Hop."
+          }
+        ],
+        "facts": [
+          {
+            "label": "Origine",
+            "value": "Département de la Donga-Mantung, région du Nord-Ouest, Cameroun"
+          },
+          {
+            "label": "Genres",
+            "value": "Afro Folk Hop, Afrobeats, Hip-Hop"
+          },
+          {
+            "label": "Crée de la musique depuis",
+            "value": "2006"
+          },
+          {
+            "label": "Distribution",
+            "value": "En ligne via CD Baby depuis 2016"
+          },
+          {
+            "label": "Membre de la SACEM depuis",
+            "value": "14 octobre 2022"
+          }
+        ],
+        "discography": [
+          {
+            "title": "Maculture",
+            "year": "2008, mis à jour en 2010",
+            "kind": "Album"
+          },
+          {
+            "title": "FolkTale",
+            "year": "2013",
+            "kind": "Album"
+          },
+          {
+            "title": "Afro Folk Hop",
+            "year": "2022",
+            "kind": "Album"
+          },
+          {
+            "title": "Chances of Success: The Instrumentals, Vol. 2 (The Afro Folk Hop Era)",
+            "year": "2022",
+            "kind": "Album instrumental"
+          },
+          {
+            "title": "Beyond My Imaginations (BMI)",
+            "year": "",
+            "kind": "Album instrumental"
+          },
+          {
+            "title": "Signs of Success",
+            "year": "",
+            "kind": "Album instrumental"
+          }
+        ]
+      },
+      {
+        "id": "ediWinChenny",
+        "name": "Edi-Win Chenny",
+        "tagline": "Rap de sagesse et art du récit",
+        "bio": [
+          "Edi-Win Chenny est un artiste hip-hop et parolier camerounais connu pour son rap porteur de sagesse et son art du récit. Il est originaire du département de la Donga-Mantung, dans la région du Nord-Ouest du Cameroun.",
+          "Ancien enseignant devenu professionnel de la banque et de la microfinance, il fait de la musique à temps partiel. Sa musique parle de leçons de vie, de sagesse et de commentaire social, plutôt que des thèmes obscènes ou hypersexualisés courants dans les tendances commerciales."
+        ],
+        "highlightsTitle": "",
+        "highlights": [],
+        "facts": [
+          {
+            "label": "Nom réel",
+            "value": "Edwin Chenny"
+          },
+          {
+            "label": "Origine",
+            "value": "Département de la Donga-Mantung, région du Nord-Ouest, Cameroun"
+          },
+          {
+            "label": "Style",
+            "value": "Leçons de vie, sagesse et commentaire social"
+          },
+          {
+            "label": "Titres populaires",
+            "value": "Lullaby (feat. Mac Kelly), Choh Chu, Ribakeh, Ntangu, Dangote"
+          }
+        ],
+        "discography": [
+          {
+            "title": "Want 2 Know (avec Keyhansom)",
+            "year": "2019",
+            "kind": "Single, lancé à Yaoundé"
+          },
+          {
+            "title": "Word 2D Wise",
+            "year": "2023",
+            "kind": "Album"
+          }
+        ]
+      }
+    ]
+  },
+  "location": {
+    "body": "The Creative Hub est situé à Soa, en périphérie du centre de Yaoundé, au Cameroun.",
+    "addressTitle": "Adresse"
+  }
+}

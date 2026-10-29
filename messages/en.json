@@ -1,0 +1,353 @@
+{
+  "meta": {
+    "title": "Maculture Digitals",
+    "description": "Maculture Digitals is an independent Cameroonian record label and arts company. Empowering Independent Creatives."
+  },
+  "brand": {
+    "name": "Maculture Digitals",
+    "tagline": "Empowering Independent Creatives"
+  },
+  "nav": {
+    "about": "About",
+    "getInvolved": "Get Involved",
+    "media": "Media",
+    "projects": "Projects",
+    "resources": "Resources for Indie",
+    "contact": "Contact Us",
+    "donate": "Donate",
+    "menu": "Menu",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "primary": "Main navigation",
+    "skipToContent": "Skip to content"
+  },
+  "language": {
+    "label": "Language",
+    "en": "English",
+    "fr": "Français"
+  },
+  "social": {
+    "linkedin": "LinkedIn",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "tiktok": "TikTok"
+  },
+  "footer": {
+    "explore": "Explore",
+    "contact": "Contact",
+    "company": "Company",
+    "registration": "{legalName} is registered as a limited liability company in Cameroon with Business Registration Number {businessNumber} of {incorporated}, and a Unique Identification Number {uniqueId}.",
+    "rights": "All rights reserved."
+  },
+  "home": {
+    "hero": {
+      "title": "Welcome to the official website of Maculture Digitals",
+      "body": "With the availability of Information and Communication Technology (ICT), independent creatives are able to wholly produce their creations and release them without a promotional budget. This leads to the inability to connect the monetization dots in order to maximize earnings from their creations. Maculture Digitals has put in place a local infrastructure with a global vision to benefit the independent creatives by bridging the gap between independent creatives and the other key stakeholders in the creative industry. Are you interested or already engaged in the creative business? Then get involved so that we can work together.",
+      "getInvolved": "Get Involved",
+      "contact": "Contact Us",
+      "slideshow": "Photo slideshow"
+    },
+    "releases": {
+      "eyebrow": "Listen and watch",
+      "title": "Some Releases",
+      "video": "Video",
+      "lyric": "Lyric video",
+      "sound": "Audio",
+      "podcast": "Podcast",
+      "play": "Play {kind}",
+      "comingSoon": "Coming soon"
+    },
+    "spotify": {
+      "title": "Our Spotify playlist",
+      "subtitle": "This is Mac Kelly",
+      "load": "Load Spotify player",
+      "comingSoon": "Playlist coming soon"
+    },
+    "artists": {
+      "eyebrow": "The talent pool",
+      "title": "Some Artists",
+      "listen": "Listen on Spotify",
+      "releasesLabel": "Key releases",
+      "showDetails": "Show details for {name}",
+      "photo": "Photo of {name}",
+      "placeholder": "Placeholder photo",
+      "macKelly": {
+        "name": "Mac Kelly",
+        "genre": "Afro Folk Hop",
+        "releases": "Afro Folk Hop (2022), FolkTale (2013), Maculture (2010)"
+      },
+      "ediWinChenny": {
+        "name": "Edi-Win Chenny",
+        "genre": "Hip-Hop / Rap",
+        "releases": "Word 2D Wise (2023), Want 2 Know (2019)"
+      },
+      "links": {
+        "spotify": "Spotify",
+        "appleMusic": "Apple Music",
+        "instagram": "Instagram"
+      }
+    },
+    "creativeHub": {
+      "eyebrow": "Our studio",
+      "title": "The Creative Hub",
+      "body": "Maculture Digitals created its recording studio in Yaoundé and called it The Creative Hub. The name reminds visiting creatives that they are not there to play, but to give their best creativity. It is located in Soa, on the outskirts of central Yaoundé.",
+      "location": "Our location",
+      "book": "Book the studio",
+      "bookSubject": "recording studio booking",
+      "placeholder": "Placeholder photo"
+    },
+    "embed": {
+      "loading": "Loading"
+    },
+    "marquee": {
+      "label": "Maculture Digitals",
+      "slogan": "From Independent Creatives to the World",
+      "genres": "Afrobeats · Afro Folk Hop · Hip-Hop/Rap · Pop"
+    }
+  },
+  "about": {
+    "eyebrow": "About",
+    "tabsLabel": "About sections",
+    "tabs": {
+      "whoWeAre": "Who We Are",
+      "history": "Our History",
+      "connections": "Our Connections",
+      "team": "Our Team",
+      "talentPool": "Talent Pool",
+      "location": "Location"
+    },
+    "titles": {
+      "whoWeAre": "Who Are We?",
+      "history": "Our History",
+      "connections": "Our Connections",
+      "team": "Our Team",
+      "talentPool": "Talent Pool",
+      "location": "Location"
+    },
+    "explore": "Explore more",
+    "readMore": "Read more",
+    "cards": {
+      "history": "How a 2008 blog became an independent label.",
+      "connections": "The organizations and platforms we work with.",
+      "team": "The people behind Maculture Digitals.",
+      "talentPool": "The artists we work with.",
+      "location": "Find The Creative Hub in Soa, Yaoundé."
+    },
+    "connections": {
+      "visit": "Visit website",
+      "order": "Order the vinyl",
+      "learnMore": "Learn more",
+      "logoPlaceholder": "Logo of {name}"
+    },
+    "team": {
+      "photoPlaceholder": "Placeholder photo of the founder"
+    },
+    "talent": {
+      "photoPlaceholder": "Placeholder photo of {name}",
+      "listen": "Listen on Spotify",
+      "profile": "Online profile",
+      "links": {
+        "spotify": "Spotify",
+        "appleMusic": "Apple Music",
+        "instagram": "Instagram",
+        "website": "Website"
+      }
+    },
+    "location": {
+      "loadMap": "Load map",
+      "mapComingSoon": "Map coming soon",
+      "openInMaps": "Open in Google Maps",
+      "mapTitle": "Map of The Creative Hub",
+      "book": "Book the studio",
+      "bookSubject": "recording studio booking"
+    }
+  },
+  "getInvolved": {
+    "eyebrow": "Get Involved",
+    "title": "Get Involved",
+    "intro": "Are you interested or already engaged in the creative business? Then get involved so that we can work together.",
+    "emailUs": "Email us",
+    "donate": "Donate",
+    "seeProjects": "See our projects",
+    "storesComingSoon": "Stores coming soon",
+    "visitStore": "Visit {name}"
+  },
+  "media": {
+    "eyebrow": "Media",
+    "tabsLabel": "Media sections",
+    "tabs": {
+      "overview": "Overview",
+      "stream": "Stream",
+      "vinyl": "Vinyl",
+      "cds": "CDs",
+      "downloads": "Downloads",
+      "podcast": "Podcast",
+      "blog": "Blog",
+      "newsletter": "Newsletter"
+    },
+    "titles": {
+      "overview": "Media",
+      "stream": "Stream",
+      "vinyl": "Vinyl",
+      "cds": "CDs",
+      "downloads": "Downloads",
+      "podcast": "Podcast",
+      "blog": "Blog",
+      "newsletter": "Newsletter"
+    },
+    "intro": {
+      "stream": "Stream our music here.",
+      "vinyl": "Purchase our vinyl here.",
+      "cds": "Purchase our CDs here.",
+      "downloads": "Download our music here.",
+      "podcast": "Watch our podcasts here.",
+      "blog": "Read our blog news here.",
+      "newsletter": "Subscribe to our newsletter here."
+    },
+    "cards": {
+      "stream": "Listen on every major platform.",
+      "vinyl": "Our first vinyl, pressed on demand.",
+      "cds": "Physical CDs, printed on demand.",
+      "downloads": "Download our music.",
+      "podcast": "Watch our podcasts.",
+      "blog": "News from Maculture Digitals and the indie scene.",
+      "newsletter": "Get our news in your inbox."
+    },
+    "explore": "Explore",
+    "stream": {
+      "listenOn": "Listen on",
+      "open": "Open {name}",
+      "comingSoon": "Link coming soon"
+    },
+    "products": {
+      "order": "Order on ElasticStage",
+      "comingSoon": "Link coming soon",
+      "coverPlaceholder": "Cover placeholder",
+      "by": "by {artist}",
+      "vinyl": "Vinyl",
+      "cd": "CD",
+      "afroFolkHop": {
+        "title": "Afro Folk Hop"
+      },
+      "note": "Our first vinyl was released through ElasticStage, the on-demand vinyl and CD platform. Each copy is produced when it is ordered."
+    },
+    "empty": {
+      "cds": "CDs are coming soon.",
+      "downloads": "Downloads are coming soon.",
+      "podcast": "Episodes are coming soon.",
+      "blog": "No posts yet."
+    },
+    "blog": {
+      "back": "Back to the blog",
+      "readPost": "Read post",
+      "coverPlaceholder": "Cover placeholder",
+      "sampleNotice": "This is a sample post."
+    },
+    "newsletter": {
+      "title": "Subscribe",
+      "label": "Email address",
+      "placeholder": "you@example.com",
+      "submit": "Subscribe",
+      "invalid": "Please enter a valid email address.",
+      "success": "Your email app should open with a ready-to-send message. Send it to complete your subscription.",
+      "subject": "Newsletter subscription",
+      "body": "Please subscribe this address to the Maculture Digitals newsletter:\n{email}\nLanguage: {locale}"
+    },
+    "podcast": {
+      "sampleEpisode": "Sample episode {n}"
+    }
+  },
+  "projects": {
+    "eyebrow": "Projects",
+    "title": "Our Projects",
+    "intro": "If you are interested in partnering with us to implement some of our projects, send us an email. Let's get a conversation about how to implement the partnership.",
+    "emailUs": "Email partnerships",
+    "cardAria": "Project {n}: {title}",
+    "status": {
+      "idea": "Idea",
+      "planning": "Planning",
+      "seeking": "Seeking partners",
+      "running": "Running"
+    },
+    "detailsComingSoon": "Details coming soon.",
+    "beneficiariesTitle": "Who it benefits",
+    "beneficiaries": "Emerging independent creatives",
+    "partnersTitle": "Partner types sought",
+    "partners": [
+      "Funders",
+      "Implementing partners",
+      "Liaisons to opportunities"
+    ],
+    "close": "Close",
+    "imagePlaceholder": "Placeholder image",
+    "partnerCta": "Partner on this project",
+    "subject": "Partnership inquiry: {title}",
+    "body": "Name and organization:\nProject: {title}\nHow would you like to partner:\n"
+  },
+  "resources": {
+    "eyebrow": "Resources",
+    "title": "Resources for Indie",
+    "intro": "Get the latest news about grants, travel opportunities, conferences, trainings, promotional sites, sponsorship and more here.",
+    "filterLabel": "Filter by category",
+    "all": "All",
+    "deadline": "Deadline",
+    "visit": "Visit",
+    "sample": "Sample",
+    "empty": "No opportunities in this category yet.",
+    "shareTitle": "Know an opportunity?",
+    "shareBody": "Help other independent creatives by sharing a link with us.",
+    "shareCta": "Link us to an opportunity",
+    "categories": {
+      "grants": "Grants",
+      "travel": "Travel",
+      "conferences": "Conferences",
+      "trainings": "Trainings",
+      "promo": "Promo sites",
+      "sponsorship": "Sponsorship"
+    }
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Contact Us",
+    "intro": "You can contact us through the email below. We copy our second address on every message so nothing is missed.",
+    "detailsTitle": "Details",
+    "company": "Company",
+    "address": "Address",
+    "postal": "Postal address",
+    "location": "Location",
+    "email": "Email",
+    "phone": "Phone",
+    "write": "Write to us",
+    "subject": "Contact",
+    "follow": "Follow us"
+  },
+  "donate": {
+    "eyebrow": "Support us",
+    "title": "Donate",
+    "intro": "We are constantly looking for donations in cash for the implementation of projects that are beneficial to independent creatives, and in-kind support in the form of studio equipment for our Creative Hub and Connected Studios.",
+    "stepsTitle": "How to donate",
+    "steps": [
+      "Scan the QR code to access our banking information.",
+      "Make your donation.",
+      "Send us an email with the wiring information. We will acknowledge receipt and chat about how to acknowledge the donation, for example by listing you as a supporter on our website."
+    ],
+    "qrLabel": "QR code to our banking information",
+    "qrPlaceholder": "QR code placeholder",
+    "donated": "I have donated",
+    "donatedSubject": "Donation: wiring information",
+    "donatedBody": "Name or organization:\nAmount and currency:\nDate of transfer:\nTransfer reference:\nHow would you like to be acknowledged (for example listed as a supporter):\n",
+    "inKind": "Offer in-kind support",
+    "inKindSubject": "In-kind support",
+    "inKindBody": "Name or organization:\nWhat you would like to offer (for example studio equipment):\nMessage:\n",
+    "supportersTitle": "Our supporters",
+    "supportersIntro": "Thank you to everyone who helps us empower independent creatives."
+  },
+  "errors": {
+    "notFoundTitle": "Page not found",
+    "notFoundBody": "The page you are looking for does not exist or has moved.",
+    "goHome": "Back to the home page",
+    "errorTitle": "Something went wrong",
+    "errorBody": "An unexpected error occurred. Please try again.",
+    "retry": "Try again"
+  }
+}

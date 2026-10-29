@@ -1,0 +1,83 @@
+{
+  "themes": [
+    {
+      "id": "collaboration",
+      "title": "Collaboration",
+      "projects": [
+        {
+          "slug": "north-south",
+          "title": "North-South Collaborative Project",
+          "description": []
+        },
+        {
+          "slug": "south-south",
+          "title": "South-South Collaborative Project",
+          "description": []
+        }
+      ]
+    },
+    {
+      "id": "infrastructure",
+      "title": "Studios and infrastructure",
+      "projects": [
+        {
+          "slug": "creative-hub-upgrade",
+          "title": "The Creative Hub Upgrade",
+          "description": []
+        },
+        {
+          "slug": "connected-studios",
+          "title": "Connected Studios Project",
+          "description": []
+        }
+      ]
+    },
+    {
+      "id": "artist-support",
+      "title": "Artist support",
+      "projects": [
+        {
+          "slug": "artist-capacity-building",
+          "title": "Artist Capacity Building, Monetization and Employability",
+          "description": []
+        },
+        {
+          "slug": "publishing-grant",
+          "title": "Publishing Grant for Underprivileged Artists",
+          "description": []
+        },
+        {
+          "slug": "low-cost-housing",
+          "title": "Low Cost Housing Project for Internally Displaced Artists",
+          "description": []
+        }
+      ]
+    },
+    {
+      "id": "content-events",
+      "title": "Content and events",
+      "projects": [
+        {
+          "slug": "music-videos",
+          "title": "Music Videos Production Support",
+          "description": []
+        },
+        {
+          "slug": "documentaries-podcasts",
+          "title": "Production of Documentaries and Podcasts",
+          "description": []
+        },
+        {
+          "slug": "cultural-tourism",
+          "title": "Cultural Tourism Tours",
+          "description": []
+        },
+        {
+          "slug": "anniversary-concert",
+          "title": "20th Anniversary Concert",
+          "description": []
+        }
+      ]
+    }
+  ]
+}

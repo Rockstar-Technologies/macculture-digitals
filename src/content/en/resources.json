@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "id": "sample-grant",
+      "category": "grants",
+      "title": "Sample: Independent Artist Grant",
+      "organisation": "Example Foundation",
+      "deadline": "2026-12-31",
+      "note": "This is a sample entry to show the layout. Delete it when you add real opportunities.",
+      "url": ""
+    },
+    {
+      "id": "sample-travel",
+      "category": "travel",
+      "title": "Sample: Travel Grant for Music Conferences",
+      "organisation": "Example Cultural Fund",
+      "deadline": "2027-01-31",
+      "note": "This is a sample entry to show the layout. Delete it when you add real opportunities.",
+      "url": ""
+    },
+    {
+      "id": "sample-training",
+      "category": "trainings",
+      "title": "Sample: Music Business Online Course",
+      "organisation": "Example Academy",
+      "deadline": "",
+      "note": "This is a sample entry to show the layout. Delete it when you add real opportunities.",
+      "url": ""
+    }
+  ]
+}

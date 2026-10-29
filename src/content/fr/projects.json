@@ -1,0 +1,83 @@
+{
+  "themes": [
+    {
+      "id": "collaboration",
+      "title": "Collaboration",
+      "projects": [
+        {
+          "slug": "north-south",
+          "title": "Projet collaboratif Nord-Sud",
+          "description": []
+        },
+        {
+          "slug": "south-south",
+          "title": "Projet collaboratif Sud-Sud",
+          "description": []
+        }
+      ]
+    },
+    {
+      "id": "infrastructure",
+      "title": "Studios et infrastructures",
+      "projects": [
+        {
+          "slug": "creative-hub-upgrade",
+          "title": "Modernisation de The Creative Hub",
+          "description": []
+        },
+        {
+          "slug": "connected-studios",
+          "title": "Projet de studios connectés",
+          "description": []
+        }
+      ]
+    },
+    {
+      "id": "artist-support",
+      "title": "Soutien aux artistes",
+      "projects": [
+        {
+          "slug": "artist-capacity-building",
+          "title": "Renforcement des capacités, monétisation et employabilité des artistes",
+          "description": []
+        },
+        {
+          "slug": "publishing-grant",
+          "title": "Subvention d'édition pour les artistes défavorisés",
+          "description": []
+        },
+        {
+          "slug": "low-cost-housing",
+          "title": "Projet de logements à bas coût pour les artistes déplacés internes",
+          "description": []
+        }
+      ]
+    },
+    {
+      "id": "content-events",
+      "title": "Contenus et événements",
+      "projects": [
+        {
+          "slug": "music-videos",
+          "title": "Soutien à la production de clips musicaux",
+          "description": []
+        },
+        {
+          "slug": "documentaries-podcasts",
+          "title": "Production de documentaires et de podcasts",
+          "description": []
+        },
+        {
+          "slug": "cultural-tourism",
+          "title": "Circuits de tourisme culturel",
+          "description": []
+        },
+        {
+          "slug": "anniversary-concert",
+          "title": "Concert du 20e anniversaire",
+          "description": []
+        }
+      ]
+    }
+  ]
+}

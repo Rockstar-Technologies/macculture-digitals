@@ -1,0 +1,353 @@
+{
+  "meta": {
+    "title": "Maculture Digitals",
+    "description": "Maculture Digitals est un label musical et une entreprise artistique camerounaise indépendante. Donner du pouvoir aux créatifs indépendants."
+  },
+  "brand": {
+    "name": "Maculture Digitals",
+    "tagline": "Donner du pouvoir aux créatifs indépendants"
+  },
+  "nav": {
+    "about": "À propos",
+    "getInvolved": "S'impliquer",
+    "media": "Médias",
+    "projects": "Projets",
+    "resources": "Ressources pour indés",
+    "contact": "Nous contacter",
+    "donate": "Faire un don",
+    "menu": "Menu",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "primary": "Navigation principale",
+    "skipToContent": "Aller au contenu"
+  },
+  "language": {
+    "label": "Langue",
+    "en": "English",
+    "fr": "Français"
+  },
+  "social": {
+    "linkedin": "LinkedIn",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "tiktok": "TikTok"
+  },
+  "footer": {
+    "explore": "Explorer",
+    "contact": "Contact",
+    "company": "Entreprise",
+    "registration": "{legalName} est enregistrée en tant que société à responsabilité limitée au Cameroun sous le numéro d'immatriculation {businessNumber} du {incorporated}, et le numéro d'identification unique {uniqueId}.",
+    "rights": "Tous droits réservés."
+  },
+  "home": {
+    "hero": {
+      "title": "Bienvenue sur le site officiel de Maculture Digitals",
+      "body": "Grâce aux technologies de l'information et de la communication (TIC), les créatifs indépendants peuvent produire entièrement leurs œuvres et les diffuser sans budget de promotion. Il leur est alors difficile de relier les points de la monétisation pour maximiser les revenus de leurs créations. Maculture Digitals a mis en place une infrastructure locale avec une vision mondiale au service des créatifs indépendants, en comblant le fossé entre ces derniers et les autres acteurs clés de l'industrie créative. Vous êtes intéressé par le milieu créatif ou déjà engagé ? Alors impliquez-vous pour que nous puissions travailler ensemble.",
+      "getInvolved": "S'impliquer",
+      "contact": "Nous contacter",
+      "slideshow": "Diaporama de photos"
+    },
+    "releases": {
+      "eyebrow": "Écouter et regarder",
+      "title": "Quelques sorties",
+      "video": "Vidéo",
+      "lyric": "Vidéo des paroles",
+      "sound": "Audio",
+      "podcast": "Podcast",
+      "play": "Lire : {kind}",
+      "comingSoon": "Bientôt disponible"
+    },
+    "spotify": {
+      "title": "Notre playlist Spotify",
+      "subtitle": "This is Mac Kelly",
+      "load": "Charger le lecteur Spotify",
+      "comingSoon": "Playlist bientôt disponible"
+    },
+    "artists": {
+      "eyebrow": "Le vivier de talents",
+      "title": "Quelques artistes",
+      "listen": "Écouter sur Spotify",
+      "releasesLabel": "Sorties clés",
+      "showDetails": "Afficher les détails de {name}",
+      "photo": "Photo de {name}",
+      "placeholder": "Photo provisoire",
+      "macKelly": {
+        "name": "Mac Kelly",
+        "genre": "Afro Folk Hop",
+        "releases": "Afro Folk Hop (2022), FolkTale (2013), Maculture (2010)"
+      },
+      "ediWinChenny": {
+        "name": "Edi-Win Chenny",
+        "genre": "Hip-Hop / Rap",
+        "releases": "Word 2D Wise (2023), Want 2 Know (2019)"
+      },
+      "links": {
+        "spotify": "Spotify",
+        "appleMusic": "Apple Music",
+        "instagram": "Instagram"
+      }
+    },
+    "creativeHub": {
+      "eyebrow": "Notre studio",
+      "title": "The Creative Hub",
+      "body": "Maculture Digitals a créé son studio d'enregistrement à Yaoundé et l'a baptisé The Creative Hub. Ce nom rappelle aux créatifs qui le visitent qu'ils ne viennent pas jouer, mais donner le meilleur de leur créativité. Il se situe à Soa, en périphérie du centre de Yaoundé.",
+      "location": "Notre localisation",
+      "book": "Réserver le studio",
+      "bookSubject": "recording studio booking",
+      "placeholder": "Photo provisoire"
+    },
+    "embed": {
+      "loading": "Chargement"
+    },
+    "marquee": {
+      "label": "Maculture Digitals",
+      "slogan": "Des créatifs indépendants au monde entier",
+      "genres": "Afrobeats · Afro Folk Hop · Hip-Hop/Rap · Pop"
+    }
+  },
+  "about": {
+    "eyebrow": "À propos",
+    "tabsLabel": "Sections de la page À propos",
+    "tabs": {
+      "whoWeAre": "Qui sommes-nous",
+      "history": "Notre histoire",
+      "connections": "Nos relations",
+      "team": "Notre équipe",
+      "talentPool": "Vivier de talents",
+      "location": "Localisation"
+    },
+    "titles": {
+      "whoWeAre": "Qui sommes-nous ?",
+      "history": "Notre histoire",
+      "connections": "Nos relations",
+      "team": "Notre équipe",
+      "talentPool": "Vivier de talents",
+      "location": "Localisation"
+    },
+    "explore": "Explorer davantage",
+    "readMore": "En savoir plus",
+    "cards": {
+      "history": "Comment un blog de 2008 est devenu un label indépendant.",
+      "connections": "Les organisations et plateformes avec lesquelles nous travaillons.",
+      "team": "Les personnes derrière Maculture Digitals.",
+      "talentPool": "Les artistes avec lesquels nous travaillons.",
+      "location": "Trouvez The Creative Hub à Soa, Yaoundé."
+    },
+    "connections": {
+      "visit": "Visiter le site",
+      "order": "Commander le vinyle",
+      "learnMore": "En savoir plus",
+      "logoPlaceholder": "Logo de {name}"
+    },
+    "team": {
+      "photoPlaceholder": "Photo provisoire du fondateur"
+    },
+    "talent": {
+      "photoPlaceholder": "Photo provisoire de {name}",
+      "listen": "Écouter sur Spotify",
+      "profile": "Profil en ligne",
+      "links": {
+        "spotify": "Spotify",
+        "appleMusic": "Apple Music",
+        "instagram": "Instagram",
+        "website": "Site web"
+      }
+    },
+    "location": {
+      "loadMap": "Charger la carte",
+      "mapComingSoon": "Carte bientôt disponible",
+      "openInMaps": "Ouvrir dans Google Maps",
+      "mapTitle": "Carte de The Creative Hub",
+      "book": "Réserver le studio",
+      "bookSubject": "recording studio booking"
+    }
+  },
+  "getInvolved": {
+    "eyebrow": "S'impliquer",
+    "title": "S'impliquer",
+    "intro": "Le milieu créatif vous intéresse ou vous y êtes déjà engagé ? Alors impliquez-vous pour que nous puissions travailler ensemble.",
+    "emailUs": "Nous écrire",
+    "donate": "Faire un don",
+    "seeProjects": "Voir nos projets",
+    "storesComingSoon": "Boutiques bientôt disponibles",
+    "visitStore": "Visiter {name}"
+  },
+  "media": {
+    "eyebrow": "Médias",
+    "tabsLabel": "Sections Médias",
+    "tabs": {
+      "overview": "Aperçu",
+      "stream": "Écouter",
+      "vinyl": "Vinyle",
+      "cds": "CD",
+      "downloads": "Téléchargements",
+      "podcast": "Podcast",
+      "blog": "Blog",
+      "newsletter": "Lettre d'information"
+    },
+    "titles": {
+      "overview": "Médias",
+      "stream": "Écouter",
+      "vinyl": "Vinyle",
+      "cds": "CD",
+      "downloads": "Téléchargements",
+      "podcast": "Podcast",
+      "blog": "Blog",
+      "newsletter": "Lettre d'information"
+    },
+    "intro": {
+      "stream": "Écoutez notre musique ici.",
+      "vinyl": "Achetez notre vinyle ici.",
+      "cds": "Achetez nos CD ici.",
+      "downloads": "Téléchargez notre musique ici.",
+      "podcast": "Regardez nos podcasts ici.",
+      "blog": "Lisez les actualités de notre blog ici.",
+      "newsletter": "Abonnez-vous à notre lettre d'information ici."
+    },
+    "cards": {
+      "stream": "Écoutez sur toutes les grandes plateformes.",
+      "vinyl": "Notre premier vinyle, pressé à la demande.",
+      "cds": "CD physiques, imprimés à la demande.",
+      "downloads": "Téléchargez notre musique.",
+      "podcast": "Regardez nos podcasts.",
+      "blog": "Les actualités de Maculture Digitals et de la scène indépendante.",
+      "newsletter": "Recevez nos nouvelles dans votre boîte mail."
+    },
+    "explore": "Explorer",
+    "stream": {
+      "listenOn": "Écouter sur",
+      "open": "Ouvrir {name}",
+      "comingSoon": "Lien bientôt disponible"
+    },
+    "products": {
+      "order": "Commander sur ElasticStage",
+      "comingSoon": "Lien bientôt disponible",
+      "coverPlaceholder": "Pochette provisoire",
+      "by": "par {artist}",
+      "vinyl": "Vinyle",
+      "cd": "CD",
+      "afroFolkHop": {
+        "title": "Afro Folk Hop"
+      },
+      "note": "Notre premier vinyle est sorti via ElasticStage, la plateforme de vinyles et de CD à la demande. Chaque exemplaire est fabriqué lorsqu'il est commandé."
+    },
+    "empty": {
+      "cds": "Les CD arrivent bientôt.",
+      "downloads": "Les téléchargements arrivent bientôt.",
+      "podcast": "Les épisodes arrivent bientôt.",
+      "blog": "Aucun article pour le moment."
+    },
+    "blog": {
+      "back": "Retour au blog",
+      "readPost": "Lire l'article",
+      "coverPlaceholder": "Image provisoire",
+      "sampleNotice": "Ceci est un article d'exemple."
+    },
+    "newsletter": {
+      "title": "S'abonner",
+      "label": "Adresse e-mail",
+      "placeholder": "vous@exemple.com",
+      "submit": "S'abonner",
+      "invalid": "Veuillez saisir une adresse e-mail valide.",
+      "success": "Votre application de messagerie devrait s'ouvrir avec un message prêt à envoyer. Envoyez-le pour finaliser votre abonnement.",
+      "subject": "Abonnement à la lettre d'information",
+      "body": "Merci d'abonner cette adresse à la lettre d'information de Maculture Digitals :\n{email}\nLangue : {locale}"
+    },
+    "podcast": {
+      "sampleEpisode": "Épisode d'exemple {n}"
+    }
+  },
+  "projects": {
+    "eyebrow": "Projets",
+    "title": "Nos projets",
+    "intro": "Si vous souhaitez vous associer à nous pour mettre en œuvre certains de nos projets, envoyez-nous un e-mail. Discutons de la façon de mettre en œuvre le partenariat.",
+    "emailUs": "Écrire aux partenariats",
+    "cardAria": "Projet {n} : {title}",
+    "status": {
+      "idea": "Idée",
+      "planning": "En préparation",
+      "seeking": "Recherche de partenaires",
+      "running": "En cours"
+    },
+    "detailsComingSoon": "Détails bientôt disponibles.",
+    "beneficiariesTitle": "À qui il profite",
+    "beneficiaries": "Les créatifs indépendants émergents",
+    "partnersTitle": "Types de partenaires recherchés",
+    "partners": [
+      "Bailleurs de fonds",
+      "Partenaires de mise en œuvre",
+      "Relais vers des opportunités"
+    ],
+    "close": "Fermer",
+    "imagePlaceholder": "Image provisoire",
+    "partnerCta": "S'associer à ce projet",
+    "subject": "Demande de partenariat : {title}",
+    "body": "Nom et organisation :\nProjet : {title}\nComment souhaitez-vous collaborer :\n"
+  },
+  "resources": {
+    "eyebrow": "Ressources",
+    "title": "Ressources pour indés",
+    "intro": "Retrouvez ici les dernières nouvelles sur les subventions, les opportunités de voyage, les conférences, les formations, les sites de promotion, le parrainage et plus encore.",
+    "filterLabel": "Filtrer par catégorie",
+    "all": "Toutes",
+    "deadline": "Date limite",
+    "visit": "Visiter",
+    "sample": "Exemple",
+    "empty": "Aucune opportunité dans cette catégorie pour le moment.",
+    "shareTitle": "Vous connaissez une opportunité ?",
+    "shareBody": "Aidez d'autres créatifs indépendants en partageant un lien avec nous.",
+    "shareCta": "Nous signaler une opportunité",
+    "categories": {
+      "grants": "Subventions",
+      "travel": "Voyages",
+      "conferences": "Conférences",
+      "trainings": "Formations",
+      "promo": "Sites de promotion",
+      "sponsorship": "Parrainage"
+    }
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Nous contacter",
+    "intro": "Vous pouvez nous contacter via l'adresse e-mail ci-dessous. Nous mettons notre seconde adresse en copie de chaque message pour que rien ne soit manqué.",
+    "detailsTitle": "Coordonnées",
+    "company": "Entreprise",
+    "address": "Adresse",
+    "postal": "Adresse postale",
+    "location": "Localisation",
+    "email": "E-mail",
+    "phone": "Téléphone",
+    "write": "Nous écrire",
+    "subject": "Contact",
+    "follow": "Suivez-nous"
+  },
+  "donate": {
+    "eyebrow": "Nous soutenir",
+    "title": "Faire un don",
+    "intro": "Nous recherchons constamment des dons en espèces pour mettre en œuvre des projets utiles aux créatifs indépendants, ainsi qu'un soutien en nature sous forme d'équipement de studio pour notre Creative Hub et nos studios connectés.",
+    "stepsTitle": "Comment faire un don",
+    "steps": [
+      "Scannez le code QR pour accéder à nos coordonnées bancaires.",
+      "Effectuez votre don.",
+      "Envoyez-nous un e-mail avec les informations du virement. Nous accuserons réception et discuterons de la manière de reconnaître votre don, par exemple en vous citant comme soutien sur notre site."
+    ],
+    "qrLabel": "Code QR vers nos coordonnées bancaires",
+    "qrPlaceholder": "Code QR provisoire",
+    "donated": "J'ai fait un don",
+    "donatedSubject": "Don : informations du virement",
+    "donatedBody": "Nom ou organisation :\nMontant et devise :\nDate du virement :\nRéférence du virement :\nComment souhaitez-vous être remercié (par exemple cité comme soutien) :\n",
+    "inKind": "Proposer un soutien en nature",
+    "inKindSubject": "Soutien en nature",
+    "inKindBody": "Nom ou organisation :\nCe que vous souhaitez offrir (par exemple du matériel de studio) :\nMessage :\n",
+    "supportersTitle": "Nos soutiens",
+    "supportersIntro": "Merci à toutes celles et tous ceux qui nous aident à donner du pouvoir aux créatifs indépendants."
+  },
+  "errors": {
+    "notFoundTitle": "Page introuvable",
+    "notFoundBody": "La page que vous cherchez n'existe pas ou a été déplacée.",
+    "goHome": "Retour à l'accueil",
+    "errorTitle": "Une erreur est survenue",
+    "errorBody": "Une erreur inattendue s'est produite. Veuillez réessayer.",
+    "retry": "Réessayer"
+  }
+}

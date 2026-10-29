@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "id": "sample-grant",
+      "category": "grants",
+      "title": "Exemple : Bourse pour artistes indépendants",
+      "organisation": "Fondation Exemple",
+      "deadline": "2026-12-31",
+      "note": "Ceci est une entrée d'exemple pour montrer la mise en page. Supprimez-la lorsque vous ajouterez de vraies opportunités.",
+      "url": ""
+    },
+    {
+      "id": "sample-travel",
+      "category": "travel",
+      "title": "Exemple : Bourse de voyage pour conférences musicales",
+      "organisation": "Fonds culturel Exemple",
+      "deadline": "2027-01-31",
+      "note": "Ceci est une entrée d'exemple pour montrer la mise en page. Supprimez-la lorsque vous ajouterez de vraies opportunités.",
+      "url": ""
+    },
+    {
+      "id": "sample-training",
+      "category": "trainings",
+      "title": "Exemple : Cours en ligne sur le business de la musique",
+      "organisation": "Académie Exemple",
+      "deadline": "",
+      "note": "Ceci est une entrée d'exemple pour montrer la mise en page. Supprimez-la lorsque vous ajouterez de vraies opportunités.",
+      "url": ""
+    }
+  ]
+}

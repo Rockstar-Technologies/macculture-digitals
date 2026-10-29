@@ -1,0 +1,141 @@
+{
+  "groups": [
+    {
+      "id": "support",
+      "title": "Support us",
+      "items": [
+        {
+          "id": "partner",
+          "title": "Partner With Us",
+          "body": [
+            "We are constantly looking for partners to work with. Visit our Projects page and, if you are interested, send us an email. Let's get a conversation about how to implement the partnership."
+          ],
+          "cta": "Email partnerships",
+          "subject": "Partnership inquiry",
+          "template": "Name and organization:\nProject of interest:\nHow would you like to partner:\n"
+        },
+        {
+          "id": "donate",
+          "title": "Donate",
+          "body": [
+            "We are constantly looking for donations in cash for the implementation of projects that are beneficial to independent creatives, and in-kind support in the form of studio equipment for our Creative Hub and Connected Studios.",
+            "If you are interested, scan the QR code to access our banking information, then send us an email with the wiring information. We will acknowledge receipt and chat further on how to acknowledge the donation, for example by listing the donor as a supporter on our website."
+          ],
+          "cta": "Donate",
+          "subject": "",
+          "template": ""
+        },
+        {
+          "id": "merch",
+          "title": "Buy Merch",
+          "body": [
+            "Visit our online stores at the following links, and shop to support us. Thanks in advance."
+          ],
+          "cta": "",
+          "subject": "",
+          "template": ""
+        }
+      ]
+    },
+    {
+      "id": "artists",
+      "title": "For artists",
+      "items": [
+        {
+          "id": "publish",
+          "title": "Publish with Us",
+          "body": [
+            "Are you an independent artist or independent record label looking for a publisher? Send us a motivation or application letter and mention \"Request for Publishing service\". Also send links to your online music, especially Spotify.",
+            "If what you are doing has some potential, you will receive a draft publishing contract for review. We will exchange and negotiate until both parties agree and sign. You can let your lawyer advise you on the terms."
+          ],
+          "cta": "Request publishing",
+          "subject": "Request for Publishing service",
+          "template": "Artist or label name:\nCountry:\nSpotify link:\nOther links:\nMotivation:\n"
+        },
+        {
+          "id": "studio",
+          "title": "Book The Creative Hub Studio",
+          "body": [
+            "Do you have a song you want to produce and you cannot find the right team to deliver it in Yaoundé? Book our creative studio. A recording session may please both parties to get into a music production contract."
+          ],
+          "cta": "Book the studio",
+          "subject": "recording studio booking",
+          "template": "Name:\nSong or project:\nPreferred dates:\nMessage:\n"
+        }
+      ]
+    },
+    {
+      "id": "hire",
+      "title": "Hire us",
+      "items": [
+        {
+          "id": "bookArtist",
+          "title": "Book an Artist",
+          "body": [
+            "Tell us which kind of artist you want for your event. We can propose."
+          ],
+          "cta": "Request an artist",
+          "subject": "Artist booking request",
+          "template": "Event type:\nDate and city:\nKind of artist wanted:\nBudget (optional):\n"
+        },
+        {
+          "id": "manageEvent",
+          "title": "Book Us to Manage Your Event",
+          "body": [
+            "You can book us to manage your events in Yaoundé or Douala. We have the connections to assemble all the stakeholders in order to drive a successful event."
+          ],
+          "cta": "Book event management",
+          "subject": "Event management request",
+          "template": "Event type:\nDate and city:\nExpected audience:\nMessage:\n"
+        }
+      ]
+    },
+    {
+      "id": "contribute",
+      "title": "Contribute",
+      "items": [
+        {
+          "id": "news",
+          "title": "Send Us News",
+          "body": [
+            "If you have some interesting indie news from where you are and you can be credited as the source of information, send it to us."
+          ],
+          "cta": "Send news",
+          "subject": "Indie news",
+          "template": "News:\nCredit name or source:\nLink:\n"
+        },
+        {
+          "id": "opportunities",
+          "title": "Link Us to Opportunities",
+          "body": [
+            "You can support us by sharing links to current opportunities: funding, travel grants, trainings, scholarships, workshops, sync licensing submissions, seminars, venture capital and other investment opportunities."
+          ],
+          "cta": "Share an opportunity",
+          "subject": "Opportunity to share",
+          "template": "Opportunity:\nLink:\nDeadline:\n"
+        },
+        {
+          "id": "join",
+          "title": "Join Us",
+          "body": [
+            "As an aspiring start-up, we are looking forward to grow. You can join us as a shareholder, venture capitalist (or venture capitalist hunter), board member, executive, or in junior (entry) roles, to build a strong team and formalize the relationship.",
+            "All roles are pro bono until the company has a positive cash flow. You must have a main job."
+          ],
+          "cta": "Join us",
+          "subject": "Join Maculture Digitals",
+          "template": "Name:\nRole of interest:\nBackground:\n"
+        },
+        {
+          "id": "train",
+          "title": "Train Us",
+          "body": [
+            "Are you a training institution? Give us training in the domains of the digital economy, entrepreneurship, sound engineering and more. Let's get a conversation about how to implement the partnership."
+          ],
+          "cta": "Offer training",
+          "subject": "Training partnership",
+          "template": "Institution:\nTraining offered:\nLink:\n"
+        }
+      ]
+    }
+  ]
+}

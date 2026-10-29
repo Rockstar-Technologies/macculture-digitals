@@ -1,0 +1,141 @@
+{
+  "groups": [
+    {
+      "id": "support",
+      "title": "Nous soutenir",
+      "items": [
+        {
+          "id": "partner",
+          "title": "Devenir partenaire",
+          "body": [
+            "Nous recherchons constamment des partenaires. Consultez notre page Projets et, si cela vous intéresse, envoyez-nous un e-mail. Discutons de la façon de mettre en œuvre le partenariat."
+          ],
+          "cta": "Écrire aux partenariats",
+          "subject": "Demande de partenariat",
+          "template": "Nom et organisation :\nProjet qui vous intéresse :\nComment souhaitez-vous collaborer :\n"
+        },
+        {
+          "id": "donate",
+          "title": "Faire un don",
+          "body": [
+            "Nous recherchons constamment des dons en espèces pour mettre en œuvre des projets utiles aux créatifs indépendants, ainsi qu'un soutien en nature sous forme d'équipement de studio pour notre Creative Hub et nos studios connectés.",
+            "Si cela vous intéresse, scannez le code QR pour accéder à nos coordonnées bancaires, puis envoyez-nous un e-mail avec les informations du virement. Nous accuserons réception et discuterons de la manière de reconnaître le don, par exemple en citant le donateur comme soutien sur notre site."
+          ],
+          "cta": "Faire un don",
+          "subject": "",
+          "template": ""
+        },
+        {
+          "id": "merch",
+          "title": "Acheter nos produits",
+          "body": [
+            "Visitez nos boutiques en ligne aux liens suivants et achetez pour nous soutenir. Merci d'avance."
+          ],
+          "cta": "",
+          "subject": "",
+          "template": ""
+        }
+      ]
+    },
+    {
+      "id": "artists",
+      "title": "Pour les artistes",
+      "items": [
+        {
+          "id": "publish",
+          "title": "Publier avec nous",
+          "body": [
+            "Vous êtes un artiste indépendant ou un label indépendant à la recherche d'un éditeur ? Envoyez-nous une lettre de motivation ou de candidature en mentionnant « Request for Publishing service ». Envoyez aussi les liens vers votre musique en ligne, en particulier Spotify.",
+            "Si ce que vous faites a du potentiel, vous recevrez un projet de contrat d'édition à examiner. Nous échangerons et négocierons jusqu'à ce que les deux parties s'accordent et signent. Vous pouvez faire conseiller votre avocat sur les conditions."
+          ],
+          "cta": "Demander une édition",
+          "subject": "Request for Publishing service",
+          "template": "Nom de l'artiste ou du label :\nPays :\nLien Spotify :\nAutres liens :\nMotivation :\n"
+        },
+        {
+          "id": "studio",
+          "title": "Réserver le studio The Creative Hub",
+          "body": [
+            "Vous avez un morceau à produire et vous ne trouvez pas la bonne équipe à Yaoundé ? Réservez notre studio de création. Une séance d'enregistrement peut convenir aux deux parties pour conclure un contrat de production musicale."
+          ],
+          "cta": "Réserver le studio",
+          "subject": "recording studio booking",
+          "template": "Nom :\nMorceau ou projet :\nDates souhaitées :\nMessage :\n"
+        }
+      ]
+    },
+    {
+      "id": "hire",
+      "title": "Faire appel à nous",
+      "items": [
+        {
+          "id": "bookArtist",
+          "title": "Réserver un artiste",
+          "body": [
+            "Dites-nous quel type d'artiste vous souhaitez pour votre événement. Nous pouvons vous faire des propositions."
+          ],
+          "cta": "Demander un artiste",
+          "subject": "Demande de réservation d'artiste",
+          "template": "Type d'événement :\nDate et ville :\nType d'artiste recherché :\nBudget (facultatif) :\n"
+        },
+        {
+          "id": "manageEvent",
+          "title": "Nous confier votre événement",
+          "body": [
+            "Vous pouvez nous confier la gestion de vos événements à Yaoundé ou à Douala. Nous avons les contacts pour réunir toutes les parties prenantes afin de mener un événement à bien."
+          ],
+          "cta": "Réserver la gestion d'événement",
+          "subject": "Demande de gestion d'événement",
+          "template": "Type d'événement :\nDate et ville :\nPublic attendu :\nMessage :\n"
+        }
+      ]
+    },
+    {
+      "id": "contribute",
+      "title": "Contribuer",
+      "items": [
+        {
+          "id": "news",
+          "title": "Nous envoyer des nouvelles",
+          "body": [
+            "Si vous avez des nouvelles intéressantes de la scène indépendante là où vous êtes et que vous pouvez être cité comme source, envoyez-les-nous."
+          ],
+          "cta": "Envoyer une nouvelle",
+          "subject": "Actualité indépendante",
+          "template": "Nouvelle :\nNom ou source à citer :\nLien :\n"
+        },
+        {
+          "id": "opportunities",
+          "title": "Nous signaler des opportunités",
+          "body": [
+            "Vous pouvez nous soutenir en partageant des liens vers des opportunités en cours : financements, bourses de voyage, formations, bourses d'études, ateliers, appels à synchronisation, séminaires, capital-risque et autres opportunités d'investissement."
+          ],
+          "cta": "Partager une opportunité",
+          "subject": "Opportunité à partager",
+          "template": "Opportunité :\nLien :\nDate limite :\n"
+        },
+        {
+          "id": "join",
+          "title": "Nous rejoindre",
+          "body": [
+            "En tant que jeune entreprise ambitieuse, nous souhaitons grandir. Vous pouvez nous rejoindre comme actionnaire, investisseur en capital-risque (ou chasseur d'investisseurs), membre du conseil, dirigeant, ou à des postes juniors (débutants), pour bâtir une équipe solide et formaliser la relation.",
+            "Tous les rôles sont bénévoles jusqu'à ce que l'entreprise dégage une trésorerie positive. Vous devez avoir un emploi principal."
+          ],
+          "cta": "Nous rejoindre",
+          "subject": "Rejoindre Maculture Digitals",
+          "template": "Nom :\nRôle souhaité :\nParcours :\n"
+        },
+        {
+          "id": "train",
+          "title": "Nous former",
+          "body": [
+            "Vous êtes un organisme de formation ? Formez-nous dans les domaines de l'économie numérique, de l'entrepreneuriat, de l'ingénierie du son et plus encore. Discutons de la façon de mettre en œuvre le partenariat."
+          ],
+          "cta": "Proposer une formation",
+          "subject": "Partenariat de formation",
+          "template": "Organisme :\nFormation proposée :\nLien :\n"
+        }
+      ]
+    }
+  ]
+}
